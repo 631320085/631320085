@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my own
+- 🌱 I’m currently learning survive
+- 👯 I’m looking to collaborate on make money
+- 🤔 I’m looking for help with money
+- 💬 Ask me about everthing
+- 📫 How to reach me: use money
+- 😄 Pronouns: poorguy
+- ⚡ Fun fact: poor
