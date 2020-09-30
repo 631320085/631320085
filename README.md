@@ -5,12 +5,12 @@ Hello there! I'm
 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://lin2code.github.io">lin2code</a></b>.
 <br>I'm a developer try to live on my own.<br>
 </samp>
-<div style="text-align: center; padding-right: 75px">
+
 <img src="img/hollor_knight3.gif" width="200"/>
-</div>
-<div style="text-align: center;">
+
+<p align="center">
 ⭐️⭐️⭐️⭐️⭐️
-</div>
+</p> 
 </p>
 
 <details align="center">
@@ -18,7 +18,7 @@ Hello there! I'm
 <samp>
 <b><h2 style="color: #fc6203">B O N F I R E&nbsp;L I T !</h2> </b>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="img/bonefire.gif" width="200"/>
 
 <p align="center">
 生死有命 富贵在天
