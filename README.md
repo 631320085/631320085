@@ -1,12 +1,23 @@
-<p align="center">
+<p align="center" style="color: #28a745; font-size: 14px;">
 <br>
 <samp>
-Hello there! I'm 
-<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://lin2code.github.io">lin2code</a></b>.
-<br>I'm a developer try to live on my own.<br>
+将进酒<br>
+君不见黄河之水天上来，奔流到海不复回。<br>
+君不见高堂明镜悲白发，朝如青丝暮成雪。<br>
+人生得意须尽欢，莫使金樽空对月。<br>
+天生我材必有用，千金散尽还复来。<br>
+烹羊宰牛且为乐，会须一饮三百杯。<br>
+岑夫子，丹丘生，将进酒，杯莫停。<br>
+与君歌一曲，请君为我倾耳听。<br>
+钟鼓馔玉不足贵，但愿长醉不复醒。<br>
+古来圣贤皆寂寞，惟有饮者留其名。<br>
+陈王昔时宴平乐，斗酒十千恣欢谑。<br>
+主人何为言少钱，径须沽取对君酌。<br>
+五花马，千金裘，<br>
+呼儿将出换美酒，与尔同销万古愁。<br>
 </samp>
-<div style="text-align: center; padding-right: 75px">
-<img src="img/hollor_knight3.gif" width="200"/>
+<div style="text-align: center; padding-right: 25px">
+<img src="img/hollor_knight3.gif" width="100"/>
 </div>
 <div style="text-align: center;">
 ⭐️⭐️⭐️⭐️⭐️
@@ -14,7 +25,7 @@ Hello there! I'm
 </p>
 
 <details align="center">
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary><b><samp>Light bonfire</samp></b></summary>
 <samp>
 <b><h2 style="color: #fc6203">B O N F I R E&nbsp;L I T !</h2> </b>
 
