@@ -16,9 +16,7 @@
 五花马，千金裘，<br>
 呼儿将出换美酒，与尔同销万古愁。<br>
 </samp>
-<div style="text-align: center; padding-right: 25px">
 <img src="img/hollor_knight3.gif" width="100"/>
-
 <p align="center">
 ⭐️⭐️⭐️⭐️⭐️
 </p> 
