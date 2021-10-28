@@ -1,12 +1,7 @@
 <p align="center" style="color: #28a745; font-size: 14px;">
 <br>
 <samp>
-长歌行<br>
-青青园中葵，朝露待日晞。<br>
-阳春布德泽，万物生光辉。<br>
-常恐秋节至，焜黄华叶衰。<br>
-百川东到海，何时复西归。<br>
-少壮不努力，老大徒伤悲。<br>
+加载中……<br>
 </samp>
 <img src="img/hollor_knight3.gif" width="100"/>
 <p align="center">
@@ -22,7 +17,7 @@
 <img src="img/bonefire.gif" width="200"/>
 
 <p align="center">
-生死有命 富贵在天
+不羁放纵爱自由
 </p> 
 </samp>
 </details>
